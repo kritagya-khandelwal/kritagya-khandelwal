@@ -31,8 +31,8 @@ I am Software Engineer. Anything comes in my way I learn it.
 <br />
 
 ### **About me:**
-- 🔭 I’m currently working as a Software Engineer at Yubi.
-- 🌱 I’m currently learning Kafka, Java, Elasticsearch.
+- 🔭 I’m currently working as a Senior Software Engineer at Yubi.
+- 🌱 I’m currently exploring Artificial Intelligence, with Agents and LLMs, building one agent at a time.
 - 👯 I’m looking to collaborate on technical discussions and organising tech talks.
 - 🤔 I’m looking for help technical blogging
 - 💬 Ask me about anything, will see how it goes...
@@ -59,4 +59,4 @@ I am Software Engineer. Anything comes in my way I learn it.
 <code><img height="42" src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg"></code>
 <code><img height="42" src="https://upload.wikimedia.org/wikipedia/commons/d/da/Unreal_Engine_Logo.svg"></code>
 
-![Kritagya's github stats](https://github-readme-stats.vercel.app/api?username=yash-khandelwal&show_icons=true&hide_border=true&theme=dark)
+![Kritagya's github stats](https://github-readme-stats.vercel.app/api?username=kritagya-khandelwal&show_icons=true&hide_border=true&theme=dark)
