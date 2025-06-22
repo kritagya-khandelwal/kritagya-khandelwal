@@ -1,4 +1,4 @@
-### Hey there 👋, this is [Kritagya!](https://yash-khandelwal.github.io/Portfolio/) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=yash-khandelwal.yash-khandelwal)
+### Hey there 👋, this is [Kritagya!](https://kritagya-khandelwal.github.io/Portfolio/) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=yash-khandelwal.yash-khandelwal)
 
 
 I am Software Engineer. Anything comes in my way I learn it.
